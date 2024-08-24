@@ -1,5 +1,5 @@
 The Gaming Room is a a client who wants to set up a web based version of a gaming app in this desing document.
-The Gaming Room Wants help designing a game called Draw it or Lose it.
+The Gaming Room wanted help designing a game called Draw it or Lose it.
 In Draw it or lose it drawings are rendered steadily for 30 seconds.
 If the team does not guess the drawing in 30 seconds the opposing team gets 15 seconds to guess once.
 This document has strong documentations and analyzation of different operating platforms.
